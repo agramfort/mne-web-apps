@@ -5,8 +5,8 @@ dependencies:
 - numpy
 - scipy
 - matplotlib
-- ipywidgets=7.5.0
-- voila=0.1.6
-- ipympl=0.3.3
+- ipywidgets
+- voila
+- ipympl
 - pip:
   - mne
